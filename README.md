@@ -19,8 +19,8 @@ This is a simple calendar application written in C. It allows users to:
 ### On Linux:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/GET-UNKNOWN-ERR0R/event-calendar.git
-   cd event-calendar
+   git clone https://github.com/Amyth-git/Calender
+   cd Calendar
    ```
    ```bash
    chmod +x run.sh
@@ -32,7 +32,7 @@ This is a simple calendar application written in C. It allows users to:
 ### Manually:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/GET-UNKNOWN-ERR0R/event-calendar.git
+   git clone https://github.com/Amyth-git/Calender
    cd event-calendar
    ```
    ```bash
