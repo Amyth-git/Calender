@@ -5,7 +5,6 @@ This is a simple calendar application written in C. It allows users to:
 - Add events for specific days
 - View events for a particular month or day
 
-![events-output](calendar.png)
 
 ## Features:
 - Display a calendar for a specific month and year
