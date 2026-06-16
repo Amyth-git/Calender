@@ -20,7 +20,7 @@ This is a simple calendar application written in C. It allows users to:
 1. Clone this repository:
    ```bash
    git clone https://github.com/Amyth-git/Calender
-   cd Calendar
+   cd calendar
    ```
    ```bash
    chmod +x run.sh
